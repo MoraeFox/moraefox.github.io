@@ -33,7 +33,7 @@ project_four_description: Describe your project!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
-portfolio_heading: Portfolio
+portfolio_heading: Hi There!
 portfolio_type: cards
 
 syntax_highlighting: true
@@ -158,7 +158,7 @@ google_analytics_tracking_id: # This looks something like UA-000000000-0 Head ov
 
 cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
 
-cookie_accept_message: Thanks!
+cookie_accept_message: All Done!
 
 syntax_highlighting: true # include the css for syntax highlighting
 
