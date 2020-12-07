@@ -11,27 +11,30 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "하나"
-project_one_description: Describe your project!
+project_one: "Hardware"
+project_one_description: Hardwares related to embedded system design. Mainly PCB layout, schematic, key information from datasheet, protocols.
 project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
+proj1_pic: 
 
-project_two: 둘
-project_two_description: HI!
+project_two: "BSP"
+project_two_description: 
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 proj2_pic: https://ch3302files.storage.live.com/y4m819b_f8gcair7c9_DDTsHAASbyf09T1n0Kcf6QISmJLg7aogqlcBFqSFNq1DjP1OEP3TjvpPNgCEgXFETru0hP40bCs2iU5FgCeRSpPERZPnT97u-GV60Cnh51TF4MVdF7YVq3UndBMlIP1WitAhGJGskF8u5htncPUVBsIV7HW3_hvZhISx8b3_ApY7uAWw?width=612&height=271&cropmode=none
 
-project_three: 셋
+project_three: "Applications"
 project_three_description: Describe your project!
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
 project_three_icon: hotel
+proj3_pic:
 
 
-project_four: 넷
-project_four_description: Describe your project!
+project_four: "As a hobbyist"
+project_four_description: As a enthusiastic hobbyst, some projects are totally pointless and based on personlly appetite!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
+proj4_pic: https://ch3301files.storage.live.com/y4mwmyj63xhZXZUKaauxwwccpuS4WM2BOAtxyR-9YUdwBakT43MYuKLFR0Vd4AsYfZq6YDjvjWk_NCop46pOWMYl6JBUIKBvKldtIrSxkw4-NeV3kg2pkaceHro6kMYUokiw9cqhtKwXFdXZdo_vJL6gbOBU1zTEaTzYDQ3e1Av58J1bnqpxrbnoMPxv6E8WC74?width=640&height=544&cropmode=none
 
 portfolio_heading: Hi There!
 portfolio_type: cards
